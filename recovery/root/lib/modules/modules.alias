@@ -44,6 +44,7 @@ alias of:N*T*Csamsung,exynos3475-jpegC* smfc
 alias platform:s2mpb02-regulator s2mpb02_regulator
 alias of:N*T*Ccirrus-amp snd_soc_cirrus_amp
 alias of:N*T*Ccirrus-ampC* snd_soc_cirrus_amp
+alias char-major-10-255 stm_ts_spi
 alias of:N*T*Carm,gic-v3-vh irq_gic_v3_vh
 alias of:N*T*Carm,gic-v3-vhC* irq_gic_v3_vh
 alias platform:samsung-slif snd_soc_samsung_slif

@@ -109,8 +109,6 @@ exynos-drm.ko
 mcd-panel-samsung-drv.ko
 mcd-panel-samsung-helper.ko
 dp_ext_func.ko
-mcd-panel-s6e3hae.ko
-mcd-panel.ko
 zram.ko
 tzdev.ko
 tuihw.ko
@@ -240,7 +238,9 @@ sec_class.ko
 sec_bootstat.ko
 sec_argos.ko
 pmic_class.ko
+mcd-panel-s6e3hae.ko
 dev_ril_bridge.ko
+mcd-panel.ko
 max77705_charger.ko
 sec_debug.ko
 sec_debug_test.ko
@@ -255,6 +255,7 @@ sec_debug_softdog.ko
 sec_debug_sched_info.ko
 sec_debug_stacktrace.ko
 sec_debug_hardlockup_info.ko
+sec_debug_sched_report.ko
 usb_repeater_module.ko
 dropdump.ko
 sec_vibrator_inputff_module.ko
